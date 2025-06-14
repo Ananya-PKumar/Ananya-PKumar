@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ananya-PKumar
 - 👀 I’m interested in learning Machine Learning and AI.
-- 🌱 I’m currently learning how to use Java, Python, and SQLite in my projects.
+- 🌱 I’m currently learning how to use Java, Python, SQL, and SQLite in my projects.
 - 😄 Pronouns: She/her/hers
 - ⚡ Fun fact: I play tennis in my free time!
 
