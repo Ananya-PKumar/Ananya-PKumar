@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ananya-PKumar
-- 👀 I’m interested in learning Computational Social Science/Neuroscience, ML, and GenAI Tools
+- 👀 I’m interested in learning Computational Social Science/Neuroscience, ML, and GenAI Tools.
 - 🌱 I’m currently learning how to use Java, Python, SQL, and SQLite in my projects.
 - 😄 Pronouns: She/her/hers
 - ⚡ Fun fact: I play tennis and sing in my free time!
