@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to use Java, Python, SQL, and SQLite in my projects.
 - 😄 Pronouns: She/her/hers
 - ⚡ Fun fact: I play tennis and sing in my free time!
-- 📖 Book I'm reading right now: _Atomic Habits_ by James Clear
+- 📖 Book I'm reading right now: _The Power of Ethics_ by Susan Liautaud
 - 🥅 My life's goal: Becoming a better programmer (and person!)
 
 <!---
