@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ananya-PKumar
 - 👀 I’m interested in learning Computational Social Science/Neuroscience, ML, and GenAI Tools.
-- 🌱 I’m currently learning how to use Java, Python, SQL, and SQLite in my projects.
+- 🌱 I’m currently learning how to use FSL, AFNI, and PyTorch.
 - 😄 Pronouns: She/her/hers
 - ⚡ Fun fact: I play tennis and sing in my free time!
 - 📖 Book I'm reading right now: _The Power of Ethics_ by Susan Liautaud
