@@ -1,4 +1,4 @@
-✨about me✨
+✨**about me**✨
 - hello!! i’m @Ananya-PKumar (she/her)
 - i’m interested in learning Computational Social Science/Neuroscience, ML, and GenAI Tools.
 - i’m currently learning how to use FSL, AFNI, and PyTorch.
